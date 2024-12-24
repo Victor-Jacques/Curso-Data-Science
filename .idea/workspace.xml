@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c0e8ac3-eb53-4fa7-892c-085480c69fad" name="Changes" comment="&quot;commit do conteudo usado no curso&quot;">
+      <change beforePath="$PROJECT_DIR$/Analise de Dados/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="FILTER_BY_ACTION_IN_POPUP" value="false" />
+    <option name="FILTER_BY_REPOSITORY_IN_POPUP" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Analise de Dados" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Victor-Jacques&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Victor-Jacques/Analise-de-Dados.git&quot;,
+    &quot;accountId&quot;: &quot;5758c8ee-708d-46e6-9082-7a3471cc60f0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2qPNRMXdjJKssppWqwDSVmXIneZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Arq01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Arq02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Poo_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Poo_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Poo_03.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/victo/Desktop/Curso_Data_Science&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\victo\Desktop\Python Aulas\Analise de Dados" />
+      <recent name="C:\Users\victo\Desktop\Python Aulas\POO and ARQ" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.24807.21" />
+        <option value="bundled-python-sdk-00717045f1d3-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.24807.21" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c0e8ac3-eb53-4fa7-892c-085480c69fad" name="Changes" comment="" />
+      <created>1734560240609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734560240609</updated>
+      <workItem from="1734560241656" duration="2639000" />
+      <workItem from="1734622404690" duration="6482000" />
+      <workItem from="1734711763084" duration="56000" />
+      <workItem from="1734711838205" duration="311000" />
+      <workItem from="1734712162152" duration="1547000" />
+      <workItem from="1734713968689" duration="7428000" />
+      <workItem from="1734796533603" duration="1079000" />
+      <workItem from="1734797633106" duration="4714000" />
+      <workItem from="1734887106111" duration="4168000" />
+      <workItem from="1734891618233" duration="6067000" />
+      <workItem from="1734972883606" duration="9824000" />
+      <workItem from="1734983566653" duration="63000" />
+      <workItem from="1734984018104" duration="413000" />
+      <workItem from="1734997523337" duration="888000" />
+      <workItem from="1734998506949" duration="408000" />
+      <workItem from="1734998934390" duration="592000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;commit do conteudo usado no curso&quot;">
+      <option name="closed" value="true" />
+      <created>1734998317507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734998317507</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;commit do conteudo usado no curso&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;commit do conteudo usado no curso&quot;" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Aulas$Poo_02.coverage" NAME="Poo_02 Coverage Results" MODIFIED="1734627150427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Aulas$Aula07.coverage" NAME="Aula07 Coverage Results" MODIFIED="1734979982576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analise de Dados" />
+    <SUITE FILE_PATH="coverage/Python_Aulas$Aula03.coverage" NAME="Aula03 Coverage Results" MODIFIED="1734890878314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analise de Dados" />
+    <SUITE FILE_PATH="coverage/Python_Aulas$Aula01.coverage" NAME="Aula01 Coverage Results" MODIFIED="1734800253493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analise de Dados" />
+    <SUITE FILE_PATH="coverage/Python_Aulas$Arq01.coverage" NAME="Arq01 Coverage Results" MODIFIED="1734722269783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Aulas$Aula04.coverage" NAME="Aula04 Coverage Results" MODIFIED="1734898326094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analise de Dados" />
+    <SUITE FILE_PATH="coverage/Python_Aulas$Aula02.coverage" NAME="Aula02 Coverage Results" MODIFIED="1734803235661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analise de Dados" />
+    <SUITE FILE_PATH="coverage/Python_Aulas$Poo_03.coverage" NAME="Poo_03 Coverage Results" MODIFIED="1734632743571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Aulas$Aula05.coverage" NAME="Aula05 Coverage Results" MODIFIED="1734900331564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analise de Dados" />
+    <SUITE FILE_PATH="coverage/Python_Aulas$Arq02.coverage" NAME="Arq02 Coverage Results" MODIFIED="1734725179637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Aulas$Poo_01.coverage" NAME="Poo_01 Coverage Results" MODIFIED="1734562348968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Aulas$Aula06.coverage" NAME="Aula06 Coverage Results" MODIFIED="1734975847011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Analise de Dados" />
+  </component>
+</project>
